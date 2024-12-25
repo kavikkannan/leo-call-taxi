@@ -12,6 +12,8 @@ export default function HeaderComponent() {
 
   useEffect(() => {
     const handleScroll = () => {
+      if (isSidebarOpen) return; // Don't update visibility if sidebar is open
+
       const currentScrollY = window.scrollY;
       if (currentScrollY > lastScrollY && currentScrollY > 50) {
         // Hide header on scroll down
@@ -27,7 +29,7 @@ export default function HeaderComponent() {
     return () => {
       window.removeEventListener("scroll", handleScroll);
     };
-  }, [lastScrollY]);
+  }, [lastScrollY, isSidebarOpen]);
 
   return (
     <div
@@ -47,7 +49,10 @@ export default function HeaderComponent() {
           <h1>Leo Call Taxi</h1>
         </div>
         <div className="h-[32%] w-[25%] flex justify-end pr-10 sm:hidden">
-          <button className="flex flex-col justify-center items-center space-y-1" onClick={toggleSidebar}>
+          <button
+            className="flex flex-col justify-center items-center space-y-1"
+            onClick={toggleSidebar}
+          >
             {/* Three-Bar Icon */}
             <div className="w-6 h-1 bg-white"></div>
             <div className="w-6 h-1 bg-white"></div>
@@ -67,7 +72,7 @@ export default function HeaderComponent() {
 
       {/* Sidebar for Mobile View */}
       {isSidebarOpen && (
-        <div className="fixed top-0 left-0 h-full w-64 bg-gray-800 text-white z-50 flex flex-col shadow-lg">
+        <div className="fixed top-0 left-0 w-64 h-screen bg-gray-800 text-white z-50 flex flex-col shadow-lg">
           <button
             className="text-right text-white p-4 text-xl"
             onClick={toggleSidebar}
