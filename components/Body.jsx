@@ -81,9 +81,9 @@ export default function BodyComponent() {
               </p>
             </div>
             <div>
-              <button className="p-3 md:px-6 rounded-3xl bg-yellow-500 text-black text-sm md:text-lg font-bold">
+              <a href='#packages' className="p-3 md:px-6 rounded-3xl bg-yellow-500 text-black text-sm md:text-lg font-bold">
                 BOOK NOW
-              </button>
+              </a>
             </div>
             <div className="sm:hidden">
               <button className="p-2 text-purple-700 text-sm font-bold">
@@ -237,9 +237,7 @@ export default function BodyComponent() {
                 
                 <button className=' text-blue-300 flex text-[0.5rem] sm:text-xs md:text-sm lg:text-xl justify-around items- w-full absolute bottom-[4%] z-10 '>
                     
-                    CLICK HERE 
-                    <br className='sm:hidden md:' />
-                    TO KNOW MORE
+                    CLICK HERE <br className='sm:hidden md:' />TO KNOW MORE
                 </button>
             </div>
         </div>
