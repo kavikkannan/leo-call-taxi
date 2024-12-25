@@ -1,0 +1,79 @@
+{
+    "local": [
+      {
+        "name": "Sripuram",
+        "description": "Beautiful temple in a serene location.",
+        "rating": 4.8,
+        "priceStart": 100,
+        "image": "https://imgs.search.brave.com/2Jj5tgQfGJvxsoDFpwQ6P2fNwvKQdeJeeIgX7uKN0f8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy85/LzllL0dvbGRlbl9U/ZW1wbGUsX1ZlbGxv/cmUsX0luZGlhLmpw/Zw"
+      },
+      {
+        "name": "Rathnagiri",
+        "description": "Scenic location with cultural significance.",
+        "rating": 4.5,
+        "priceStart": 120,
+        "image": "https://imgs.search.brave.com/2Jj5tgQfGJvxsoDFpwQ6P2fNwvKQdeJeeIgX7uKN0f8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy85/LzllL0dvbGRlbl9U/ZW1wbGUsX1ZlbGxv/cmUsX0luZGlhLmpw/Zw"
+      },
+      {
+        "name": "Vallimalai",
+        "description": "Hiking trails with a touch of history.",
+        "rating": 4.6,
+        "priceStart": 90,
+        "image": "https://imgs.search.brave.com/2Jj5tgQfGJvxsoDFpwQ6P2fNwvKQdeJeeIgX7uKN0f8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy85/LzllL0dvbGRlbl9U/ZW1wbGUsX1ZlbGxv/cmUsX0luZGlhLmpw/Zw"
+      },
+      {
+        "name": "Amrithi Zoo",
+        "description": "A family-friendly zoo with unique wildlife.",
+        "rating": 4.3,
+        "priceStart": 50,
+        "image": "https://imgs.search.brave.com/2Jj5tgQfGJvxsoDFpwQ6P2fNwvKQdeJeeIgX7uKN0f8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy85/LzllL0dvbGRlbl9U/ZW1wbGUsX1ZlbGxv/cmUsX0luZGlhLmpw/Zw"
+      }
+    ],
+    "outstation": [
+      {
+        "name": "Mahabalipuram",
+        "description": "Famous for its temples and carvings.",
+        "rating": 4.9,
+        "priceStart": 150,
+        "image": "https://imgs.search.brave.com/2Jj5tgQfGJvxsoDFpwQ6P2fNwvKQdeJeeIgX7uKN0f8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy85/LzllL0dvbGRlbl9U/ZW1wbGUsX1ZlbGxv/cmUsX0luZGlhLmpw/Zw"
+      },
+      {
+        "name": "Puducherry",
+        "description": "A French colonial city with beaches.",
+        "rating": 4.7,
+        "priceStart": 130,
+        "image": "https://imgs.search.brave.com/2Jj5tgQfGJvxsoDFpwQ6P2fNwvKQdeJeeIgX7uKN0f8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy85/LzllL0dvbGRlbl9U/ZW1wbGUsX1ZlbGxv/cmUsX0luZGlhLmpw/Zw"
+      },
+      {
+        "name": "Thiruvunamallai",
+        "description": "A popular pilgrimage destination.",
+        "rating": 4.4,
+        "priceStart": 110,
+        "image": "https://imgs.search.brave.com/2Jj5tgQfGJvxsoDFpwQ6P2fNwvKQdeJeeIgX7uKN0f8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy85/LzllL0dvbGRlbl9U/ZW1wbGUsX1ZlbGxv/cmUsX0luZGlhLmpw/Zw"
+      }
+    ],
+    "pickup": [
+      {
+        "name": "Bangalore Airport",
+        "description": "Seamless pickup service to start your journey.",
+        "rating": 4.8,
+        "priceStart": 80,
+        "image": "https://imgs.search.brave.com/2Jj5tgQfGJvxsoDFpwQ6P2fNwvKQdeJeeIgX7uKN0f8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy85/LzllL0dvbGRlbl9U/ZW1wbGUsX1ZlbGxv/cmUsX0luZGlhLmpw/Zw"
+      },
+      {
+        "name": "Chennai Airport",
+        "description": "Reliable transport from the Chennai airport.",
+        "rating": 4.6,
+        "priceStart": 75,
+        "image": "https://imgs.search.brave.com/2Jj5tgQfGJvxsoDFpwQ6P2fNwvKQdeJeeIgX7uKN0f8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy85/LzllL0dvbGRlbl9U/ZW1wbGUsX1ZlbGxv/cmUsX0luZGlhLmpw/Zw"
+      },
+      {
+        "name": "Tirupathi Airport",
+        "description": "Smooth pickups for a divine start.",
+        "rating": 4.7,
+        "priceStart": 85,
+        "image": "https://imgs.search.brave.com/2Jj5tgQfGJvxsoDFpwQ6P2fNwvKQdeJeeIgX7uKN0f8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy85/LzllL0dvbGRlbl9U/ZW1wbGUsX1ZlbGxv/cmUsX0luZGlhLmpw/Zw"
+      }
+    ]
+  }
+  

@@ -2,7 +2,7 @@ import HeaderComponent from "@/components/Header";
 import BodyComponent from "@/components/Body";
 import FooterComponent from "@/components/Footer";
 
-export default function Home(){
+export default function HomeTrial(){
     return(
         <div className="">
             <div className=" w-full">
