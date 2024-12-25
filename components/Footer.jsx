@@ -28,8 +28,8 @@ const FooterComponent = () => {
           {/* Contact Section */}
           <div>
             <h3 className="text-lg font-bold mb-4">TALK TO US</h3>
-            <p className="mb-2">support@hm.com</p>
-            <p>+66 2399 1145</p>
+            <p className="mb-2">leotaxisupport@leotaxi.in</p>
+            <p>+91 9150452590</p>
           </div>
   
           {/* Social Media Section */}

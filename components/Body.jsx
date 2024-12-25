@@ -96,7 +96,7 @@ export default function BodyComponent() {
           <div className="flex flex-col sm:flex-row items-center w-full ">
                 <div className="w-full sm:w-[75%] -mt-10">
                 <img
-                    src="./images/car.png"
+                    src="./images/car1.png"
                     alt="Car"
                     className="w-full object-contain translate-y-7 sm:translate-y-10 md:translate-y-12 lg:translate-y-16"
                 />
@@ -176,7 +176,7 @@ export default function BodyComponent() {
         )}
       </section>
       <section
-      id="testimonials"
+      id="ReviewPage"
       className=" bg-gray-900 text-white py-10 px-4 sm:px-8 md:px-12 lg:px-16"
     >
       {/* Section Heading */}
@@ -245,7 +245,7 @@ export default function BodyComponent() {
         </div>
             
     </section>
-    <section className="bg-yellow-500 text-black py-12">
+    <section id='about' className="bg-yellow-500 text-black py-12">
       <h2 className="text-center text-2xl md:text-3xl font-bold mb-8">
         WE DO MORE THAN YOU WISH
       </h2>
